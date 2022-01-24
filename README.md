@@ -4,6 +4,8 @@ Pathing- visualizer is a visualizing web-app visualises how different path-findi
 
 Tutorial (https://www.youtube.com/watch?v=msttfIHHkak&t=631s)
 
+Check here in action (https://10xaman.github.io/Pathing-visualizer/)
+
 (Note: Every algorithm doesn’t guarantee the shortest path.)
 
 
